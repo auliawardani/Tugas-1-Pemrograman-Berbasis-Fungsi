@@ -1,2 +1,2 @@
-# Tugas-1-Pemrograman-Berbasis-Fungsi
+# Tugas 1 Pemrograman Berbasis Fungsi
 Pemahaman Dasar Pemrograman Berbasis Fungsi
